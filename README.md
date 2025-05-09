@@ -9,7 +9,7 @@ All notices are factual, time-stamped, and backed by production records and deli
 Goods may be subject to redistribution after final reclassification.
 
 ## Current Notice
-[Read the official public notice – May 8, 2025 (PDF)](./zig-ziegler-unclaimed-goods-notice-may8-2025.pdf)
+[Read the official public notice – May 8, 2025 (PDF)](zig-ziegler-unclaimed-goods-notice-may8-2025.pdf)
 
 ## Legal Disclaimer
 This repository is maintained solely for the purpose of public commercial recordkeeping. It does not contain defamatory statements or personal allegations. All content is based on documented correspondence and confirmed commercial facts.
