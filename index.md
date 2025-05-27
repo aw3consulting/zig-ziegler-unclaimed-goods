@@ -23,7 +23,7 @@ This repository documents the official status of goods produced by AW3 Consultin
 
 ---
 
-## Official Notices
+## Official Public Notices
 
 ### [Notice of Unclaimed Goods – May 8, 2025](./unclaimed-goods-notice-may8-2025)  
 Structured payment options and deadline to resolve.  
@@ -31,7 +31,7 @@ Structured payment options and deadline to resolve.
 
 ---
 
-### [Public Notice of Abandonment – May 27, 2025](./abandoned-goods-notice-may27-2025)  
+### [Notice of Abandonded Goods – May 27, 2025](./abandoned-goods-notice-may27-2025)  
 Final declaration of abandonment and forfeiture of rights.  
 → [Download PDF](./zig-ziegler-abandoned-goods-notice-may27-2025.pdf)
 
