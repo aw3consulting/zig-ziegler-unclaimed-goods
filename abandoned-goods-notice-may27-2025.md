@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Zig Ziegler – Abandoned Goods Notice (May 27, 2025)
+title: Zig Ziegler – Abandoned Goods Notice (May 27, 2025) 
+
 ---
 
 # NOTICE OF ABANDONMENT AND FINAL STATUS  
