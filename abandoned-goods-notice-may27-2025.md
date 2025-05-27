@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PUBLIC NOTICE OF ABANDONMENT – FINAL STATUS
+title: Zig Ziegler – Abandoned Goods Notice (May 27, 2025)
 ---
 
 # NOTICE OF ABANDONMENT AND FINAL STATUS  
